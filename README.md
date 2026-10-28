@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/saurabhkumar-techie/Java-Script.leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/saurabhkumar-techie/Java-Script.leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/saurabhkumar-techie/Java-Script.leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
